@@ -4,6 +4,9 @@ import Card from './Card';
 const CardList = ({ robots }) => {
     //em vez de map() pode usar-se o foreach()
     //Loop
+    // if (true) {
+    //     throw new Error('NOOOOOOOOOOOOOOO!');
+    // }
     return (
         <div>
             {
